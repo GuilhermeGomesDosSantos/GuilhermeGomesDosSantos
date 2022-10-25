@@ -25,5 +25,5 @@
 <div> 
   <a href="https://instagram.com/_the_gds_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  [![Snake animation](https://github.com/GuilhermeGomesDosSantos/GuilhermeGomesDosSantos/blob/output/github-contribution-grid-snake.svg)](https://github.com/GuilhermeGomesDosSantos/GuilhermeGomesDosSantos/blob/main/.GitHub/WorkFlows/Cobrinha.yml)
+  ![Snake animation](https://github.com/GuilhermeGomesDosSantos/GuilhermeGomesDosSantos/blob/output/github-contribution-grid-snake.svg)
 </div>
