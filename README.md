@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Guilherme Gomes dos Santos
 
 
-- 🔭 No momento não estou trabalhando
-- 🌱 Atualmente estou estudando Java, JavaFX e Análise de dados
+- 🔭 No momento estou trabalhando sou Estagiario
+- 🌱 Atualmente estou estudando Javascript, Node JS, Intregações de API, Modelagem BPMN 2.0, SQL e Python
 - 📧 E-mail: gomes3654gui@gmail.com
 - 😄 Pronouns: ele/dele
 <div align="center">
