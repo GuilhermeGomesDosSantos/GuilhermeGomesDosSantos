@@ -14,7 +14,7 @@
 
 ## Fala, Pessoal!!
 
-Tenho 23 anos, sou de São Paulo e gosto muito de programação e café☕! Sou curioso para aprender algo que não sei, e quanto mais eu gosto de aprender desenvolvimento de software e também passo raiva😂 e ganho cabelos brancos haha.
+Tenho 23 anos, sou de São Paulo e gosto muito de programação e café☕! Sou curioso para aprender algo que não sei, e quanto mais eu gosto de aprender desenvolvimento de software eu também passo raiva😂 e ganho cabelos brancos haha.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" title = "JAVA"/></code>
